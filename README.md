@@ -66,7 +66,7 @@ pramith_portfolio.html
 🔗 Add your live website link here
 
 Example:
-`https://yourdomain.com`
+`https://agapeinteriors.in/pramith_portfolio.html`
 
 ---
 
