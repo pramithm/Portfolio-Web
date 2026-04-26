@@ -70,12 +70,6 @@ Example:
 
 ---
 
-## 📸 Preview
-
-Add portfolio screenshots inside the `assets-portfolio` folder and showcase them here.
-
----
-
 ## 🎯 Purpose
 
 This portfolio was created to build a strong professional online presence and present my work in a structured and visually appealing format.
